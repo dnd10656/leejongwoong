@@ -30,4 +30,4 @@ public class bubblesort {
     }
 }
 ```  
-![버블정렬 성능평가](file:///C:/Users/Administrator/Desktop/bubblesort.PNG)
+![버블정렬 성능평가](bubblesort.PNG)
