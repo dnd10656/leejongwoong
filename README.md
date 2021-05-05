@@ -30,4 +30,4 @@ public class bubblesort {
     }
 }
 ```  
-![](file:///C:/Users/Administrator/Desktop/bubblesort.jpg)
+![](file:///C:/Users/Administrator/Desktop/bubblesort.jpg "버블정렬")
