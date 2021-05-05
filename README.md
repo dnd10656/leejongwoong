@@ -177,3 +177,12 @@ Process finished with exit code 0
 
 버블 > 삽입 > 선택 > 쉘 정렬 순으로 버블이 가장 빠른 성능이 나오는 것을 알 수 있었습니다.
 
+
+#### 정렬 RUN 결과 이미지
+![버블 정렬](file:///C:/Users/Administrator/Desktop/%EB%B2%84%EB%B8%94%20%EC%A0%95%EB%A0%AC%20run%20%EA%B2%B0%EA%B3%BC.PNG)
+![선택 정렬]
+(file:///C:/Users/Administrator/Desktop/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC%20run%20%EA%B2%B0%EA%B3%BC.PNG)
+![삽입 정렬]
+(file:///C:/Users/Administrator/Desktop/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC%20run%20%EA%B2%B0%EA%B3%BC.PNG)
+![쉘 정렬]
+(file:///C:/Users/Administrator/Desktop/%EC%89%98%20%EC%A0%95%EB%A0%AC%20run%20%EA%B2%B0%EA%B3%BC.PNG)
