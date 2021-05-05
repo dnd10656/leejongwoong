@@ -30,4 +30,4 @@ public class bubblesort {
     }
 }
 ```  
-![](file:///C:/Users/Administrator/Desktop/bubblesort.PNG)  
+![](file:///C:/Users/Administrator/Desktop/bubblesort.jpg)
